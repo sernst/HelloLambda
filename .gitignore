@@ -6,7 +6,7 @@ __pycache__/
 /venv_py27
 /words.*
 /configs.json
-.idea
+/.idea/*
 
 # C extensions
 *.so
