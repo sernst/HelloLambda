@@ -2,6 +2,12 @@
 __pycache__/
 *.py[cod]
 
+/*.zip
+/venv_py27
+/words.*
+/configs.json
+.idea
+
 # C extensions
 *.so
 
